@@ -1,0 +1,49 @@
+.title { 
+        text-align: center;
+        font-size:100px;
+        font-family: 'Courier New', Courier, monospace;
+        background-color:RGB(255,255,255,50%);
+
+}
+.base {
+    background-image : url(https://a.storyblok.com/f/259446/1920x1080/b21acc4aa3/oni-feature.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+.paragraph{
+    
+    background-color: RGB(00,00,00,50%);
+    font-family: 'Courier New', Courier, monospace,;
+    color:white;
+    font-size: 23px;
+    
+
+}
+.fpp {
+    background-image : url(https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2952300/capsule_616x353.jpg?t=1789589897);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.space {
+    background-image : url(https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1452490/capsule_616x353.jpg?t=1789589873);
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+.nav{
+    background-image: url(https://a.storyblok.com/f/259446/1920x1080/b21acc4aa3/oni-feature.jpg);
+    color:white;
+    width:250px;
+    height:150px;
+    border: 0;
+    
+}
+body { 
+    text-align: center;
+
+}
+.bammoth{
+    width:500px;
+    height:500px
+}
